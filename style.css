@@ -1,0 +1,15 @@
+.hello{
+    border-radius: 1px;
+    border: solid black;
+    border-width: 5px;
+   width: 800px;
+   margin-top: 200px;
+   background-color: #1F8A70;
+   box-shadow: gray;
+   
+}
+
+body{
+    
+    background-color: #00425A;
+}
